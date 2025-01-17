@@ -49,7 +49,7 @@ body{
 .input-box input::placeholder{
     color: #fff;
 }
-.input-box i {
+.input-box i img{
     position: absolute;
     right: 20px;
     top: 30%;
